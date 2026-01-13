@@ -1,0 +1,14 @@
+4.1)	HARDWARE REQUIMENT:
+1)	Arduino UNO: The heart of the Arduino Uno is the ATmega328P microcontroller, which runs at 16 MHz It has 32 KB of Flash memory for storing code (of which 0.5 KB is used by the bootloader), 2 KB of SRAM, and 1 KB of EEPROM.
+
+2)	Ultrasonic Sensor: The HC-SR04 sensor works on the principle of ultrasonic waves. It emits an ultrasonic pulse and measures the time it takes for the pulse to bounce back after hitting an object. This time measurement is used to calculate the distance between the sensor and the object.
+
+3)	Buzzer: Arduino buzzer serves as a crucial component for providing auditory alerts and notifications. When the sensors embedded within the smart shoes detect an obstacle in the user's path, the Arduino microcontroller processes this information. If an obstacle is detected within a certain range, the Arduino activates the buzzer to emit an alert sound, notifying the wearer of the obstacle's presence.
+                    
+4)	Vibration Motor: A vibration motor is a compact, electrically-powered device that generates vibrations when powered. These motors are commonly used in various electronic devices, including smartphones, game controllers, wearables, and other gadgets, to provide haptic feedback to users. Haptic feedback enhances user experience by providing tactile sensations in response to interactions with the device, such as notifications, alerts, or touch commands.
+
+5)	Jumper Wire: A jump wire (also known as jumper, jumper wire, DuPont wire) is an electrical wire, or group of them in a cable, with a connector or pin at each end (or sometimes without them – simply "tinned"), which is normally used to interconnect the components of a breadboard or other prototype or test circuit, internally or with other equipment or components, without soldering.
+
+6)	9V Battery: A HW 9V battery is a type of non-rechargeable battery that is used to store energy. Its Universal 9V battery size and connecting points; it is useful in many DIY projects as well as household applications and they can easily be replaced and installed; the same as you would an AA battery or an AAA battery.
+
+
