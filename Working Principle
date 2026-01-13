@@ -1,0 +1,20 @@
+WORKING PRINCIPLE
+
+After connecting all of the parts in accordance with the circuit diagram and programming the Arduino boards. We're prepared to us the smart shoe.
+
+The smart shoe is capable of detecting object in two angles:
+
+ 1) 180 degrees (Horizontally) 
+ 2) 45 degrees (Facing Upwards)
+
+Setting up Vibration motor module:
+
+You can directly use the Vibration Motor module after purchasing from market, because there is no need to change any setting of Vibration Motor module. The expected rate of movement of vibration motor is 25ms/rotation. You just need to connect both the terminals to Arduino UNO by jumper wires and install a code for working.
+This Vibration motor works collaboratively with the buzzer as, whenever the object is detected by the ultrasonic sensors, the buzzer starts alerting by sound and vibration motor start vibrating.
+When a Visually impaired person starts moving forward, he can now also track the objects coming in the range of ultrasonic sensors, and if the object is present upward at some angle up to 45 degrees, they can also be detected easily.
+The Working of Smart Shoes is totally based on object detection and alerting the visually impaired individual. Whenever the Visually or hearing-impaired individual came across a object. The ultrasonic sensors start detecting the object and send the information to Arduino UNO.
+As the Arduino UNO gets the information from ultrasonic sensors, it starts alerting the buzzer, the buzzer start alerting the visually impaired person by providing auditory feedbacks.
+
+Similarly the vibration motor, which is connected to the ardunio UNO starts vibrating collaboratively. The Vibration motor provides the sensual feedback to the hearing-impaired person.
+The vibration motor and buzzer will provide feedbacks to the user until and unless the object is in the range of ultrasonic sensors. When the object will go out of the range of ultrasonic sensors the buzzer and vibration motor will stop providing feedbacks.
+
