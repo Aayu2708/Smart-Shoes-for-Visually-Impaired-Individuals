@@ -1,0 +1,20 @@
+Connections: 
+
+Ultrasonic Sensors – 
+VCC: Connect both sensor's VCC pin to Arduino’s 5V pin.
+GND: CONNECT BOTH SENSORS GND pin to Arduino GND pin.
+Trigger: Connect one sensor’s trigger pin to Arduino’s digital pin 2, and the other sensor’s trigger pin to Arduino digital pin 3.
+Echo: Connect one sensor's Echo pin to Arduino’s digital pin 4, and the other sensor’s Echo pin to digital pin 5.
+
+Buzzer-
+VCC: Connect the positive terminal of the buzzer to Arduino’s digital pin 6.
+GND: Connect the negative terminal of the buzzer to Arduino’s GND pin.
+
+Vibration Motor-
+VCC: Connect one terminal of the vibration motor to Arduino’s digital pin 7.
+GND: Connect the other terminal of the vibration motor to Arduino’s GND pin.
+
+Power Supply:
+Battery: Connect the positive terminal of the battery to one terminal of switch.
+Arduino: Connect the other terminal of the battery to Arduino’s VIN pin.
+GND: Connect the negative terminal of the battery directly to Arduino’s GND pin.
